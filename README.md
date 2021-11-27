@@ -14,12 +14,9 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 <img src=" " target="_blank"></a>
 
-</div><br>
+</div>
 <div>
 <a href = "https://steamcommunity.com/id/vinciusbc"><https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 </div>
-<div>
-https://github-readme-stats.vercel.app/api/top-langs/?ViniciusB95={ViniciusB95}&theme=blue-green
 
-</div>
