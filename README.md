@@ -19,7 +19,6 @@
 	<img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
 	<img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
 	<img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
-	<img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
  </div><br>
 <div style="display: inline_block">
 	<p>💻Minhas configs:</p>
