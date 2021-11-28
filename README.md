@@ -21,7 +21,7 @@
 	<img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
  </div><br>
 <div style="display: inline_block">
-	<p>💻Minhas configs:</p>
+	<p>💻Configs:</p>
 		<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 		<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
 		<img src="https://img.shields.io/badge/AMD-Radeon_R7_360-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
